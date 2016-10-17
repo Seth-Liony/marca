@@ -1,6 +1,13 @@
-<!DOCTYPE HTML>
-
 <html>
+	<?php // <-- ignorar el inicio de las etiqueta PHP, el codigo debe ir en el archivo functions.php del tema hijo 
+// Enganchamos la función twentyfourteen_child_favicon_link  al hook wp_head
+add_action( 'wp_head', 'twentyfourteen_child_favicon_link' );
+/**
+ * Incluir un favicon en formato png
+ */
+function twentyfourteen_child_favicon_link() {
+	echo '<link rel="shortcut icon" type="image/x-icon" href="'.  get_stylesheet_directory_uri() .'/images/favicon.png" />';
+}</?php>
 	<head>
 		<title>Baroness:Seth Liony</title>
 		<meta charset="utf-8" />
