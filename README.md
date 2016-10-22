@@ -1,8 +1,7 @@
-###Proyecto final de marca personal
+###Pragina personal Baroness:Seth Liony
 
-Encuentra cómo construir tu marca personal desde cero en:
 
-www.platzi.com/marca
+http://www.baroness-sethliony.com/
 
 
 ***
