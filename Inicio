@@ -1,0 +1,231 @@
+<html>
+	
+	<head>
+		<link rel="shortcut icon" href="logo.png" type="image/x-icon">
+		<link rel="shortcut icon" href="logo.png"/>
+		<title>Baroness:Seth Liony</title>
+		<meta charset="utf-8" />
+		<meta name="viewport" content="width=device-width, initial-scale=1, user-scalable=no" />
+		<!--[if lte IE 8]><script src="assets/js/ie/html5shiv.js"></script><![endif]-->
+	
+		<link rel="stylesheet" href="assets/css/main.css" />
+		<link rel="icon" href="logo.png">
+		<!--[if lte IE 9]><link rel="stylesheet" href="assets/css/ie9.css" /><![endif]-->
+		<!--[if lte IE 8]><link rel="stylesheet" href="assets/css/ie8.css" /><![endif]-->
+		
+		<!-- favicon -->
+<link rel="icon" href="logo.png" type="image/png">
+
+<link rel="icon" sizes="196x196" href="logo.png" type="image/png">
+<link rel="apple-touch-icon" sizes="152x152" href="apple-touch-icon.png">
+<link rel="apple-touch-icon" sizes="60x60" href="apple-touch-icon-60x60.png">
+<link rel="apple-touch-icon" sizes="76x76" href="apple-touch-icon-76x76.png">
+<link rel="apple-touch-icon" sizes="114x114" href="apple-touch-icon-114x114.png">
+<link rel="apple-touch-icon" sizes="120x120" href="apple-touch-icon-120x120.png">
+<link rel="apple-touch-icon" sizes="144x144" href="apple-touch-icon-144x144.png">
+<meta name="msapplication-TileImage" content="logo.png">
+<meta name="msapplication-TileColor" content="#FFFFFF">  
+		
+	</head>
+	<body>
+
+
+
+		<!-- Wrapper -->
+			<div id="wrapper">
+
+				<!-- Header -->
+					<header id="header" class="alt">
+						<a href="index.html" class="logo"><strong>Baroness:</strong> <span>Seth Liony</span></a>
+						<nav>
+							<a href="#menu">Menu</a>
+						</nav>
+					</header>
+
+				<!-- Menu -->
+					<nav id="menu">
+						<ul class="links">
+							<li><a href="index.html">Inicio</a></li>
+							<li><a href="seth.html">¿Quién es Seth Liony?</a></li>
+							<li><a href="doblaje.html">Doblaje y Fandubs</a></li>
+							<li><a href="cosplay/cosplay.html">Cosplay</a></li>
+							<li><a href="gameplays.html">Videos y Gameplays</a></li>
+							<li><a href="escritos.html">Escritos</a></li>
+							<li><a href="Imagenes Cosplay/natural.html">Fotografía y Arte</a></li>
+							<li><a href="blog.html">Blog</a></li>
+							
+						</ul>
+						<ul class="actions vertical">
+							<li><a href="#" class="button special fit">Suscribete</a></li>
+							<li><a href="#" class="button fit">Iniciar Sesión</a></li>
+						</ul>
+					</nav>
+
+				<!-- Banner -->
+					<section id="banner" class="major">
+						<div class="inner">
+							<header class="major">
+								 <h1>
+                                 <img alt='Baroness: Seth Liony' height='210px; ' id='Logo' src='https://3.bp.blogspot.com/-tLBYA7ROCX4/V-yIW6c_4iI/AAAAAAAAC_I/S40GdNKjGJcWsBAkGRp4Rs-RMYJPV3-dgCLcB/s1600/logo.png' style='display:block;padding-left:15px;padding-top:0px;' width='950px; '/>
+                                 </h1>
+							</header>
+							<div class="content">
+								<p>-Productora Audiovisual -Voz de Eventos<br />
+								- Artista  -Fotografa  -Locutora</p>
+								<ul class="actions">
+									<li><a href="#one" class="button next scrolly">Leer mas</a></li>
+								</ul>
+							</div>
+						</div>
+					</section>
+
+				<!-- Main -->
+					<div id="main">
+
+						<!-- One -->
+							<section id="one" class="tiles">
+								<article>
+									<span class="image">
+										<img src="https://raw.githubusercontent.com/Seth-Liony/seth-liony.github.io/master/images/pic01.jpg" alt="" />
+									</span>
+									<header class="major">
+										<h3><a href="doblaje.html" class="link">Doblaje y Fandub</a></h3>
+										<p>Conoce todos los tonos de voz que puedo hacer, y diviertete viendo mis fandubs.</p>
+									</header>
+								</article>
+								<article>
+									<span class="image">
+										<img src="images/pic02.jpg" alt="" />
+									</span>
+									<header class="major">
+										<h3><a href="cosplay/cosplay.html" class="link">Cosplay</a></h3>
+										<p>Chekea todos los personajes de los cuales me he caracterizado, y encuentra el que más te gusta.</p>
+									</header>
+								</article>
+								<article>
+									<span class="image">
+										<img src="images/pic03.jpg" alt="" />
+									</span>
+									<header class="major">
+										<h3><a href="Work/work.html" class="link">Videos y Gameplays</a></h3>
+										<p>Cosplay perfomances, Gameplays, Pensamientos, Eventos, mi vida, mis reglas. Ven y sumergete a mi mundo audiovisual.</p>
+									</header>
+								</article>
+								<article>
+									<span class="image">
+										<img src="images/pic04.jpg" alt="" />
+									</span>
+									<header class="major">
+										<h3><a href="escritos.html" class="link">Escritos</a></h3>
+										<p>Actualmente soy conocida por mí e-book "Lybellus", ven y atrevete a leer todas mis historias.</p>
+									</header>
+								</article>
+                                
+								<article>
+									<span class="image">
+										<img src="images/pic05.jpg" alt="" />
+									</span>
+									<header class="major">
+										<h3><a href="cosplay/fotografia.html" class="link">Fotografía y Arte</a></h3>
+										<p>En esta sección encontraras fotografías, referente a mi vida y capturas que práctico diariamente con mi cámara.</p>
+									</header>
+								</article>
+                                
+								<article>
+									<span class="image">
+										<img src="images/pic05.jpg" alt="" />
+									</span>
+									<header class="major">
+										<h3><a href="Work/work.html" class="link">Blog</a></h3>
+										<p>Publicaciones de mi trabajo aquí.</p>
+									</header>
+								</article>
+							</section>
+
+						<!-- Two -->
+							
+					</div>
+
+				<!-- Contact -->
+					<section id="contact">
+						<div class="inner">
+							<section>
+								<form method="post" action="#">
+									<div class="field half first">
+										<label for="name">Nombre</label>
+										<input type="text" name="name" id="name" />
+									</div>
+									<div class="field half">
+										<label for="email">Email</label>
+										<input type="text" name="email" id="email" />
+									</div>
+									<div class="field">
+										<label for="message">Mensage</label>
+										<textarea name="message" id="message" rows="6"></textarea>
+									</div>
+									<ul class="actions">
+										<li><input type="submit" value="Enviar Mensaje" class="special" /></li>
+										<li><input type="reset" value="Limpiar" /></li>
+									</ul>
+								</form>
+							</section>
+							<section class="split">
+								<section>
+									<div class="contact-method">
+										<span class="icon alt fa-envelope"></span>
+										<h3>Email</h3>
+										<a href="#">sethliony2711@gmail.com</a>
+									</div>
+								</section>
+								<section>
+									<div class="contact-method">
+										<span class="icon alt fa-instagram"></span>
+										<h3>Instagram</h3>
+										<a href="https://www.instagram.com/seth_liony/">seth_liony</a>
+									</div>
+								</section>
+								<section>
+									<div class="contact-method">
+										<span class="icon alt fa-microphone"></span>
+										<h3>Licencia de Locución </h3>
+										<span>Autoridad Nacional de los Servicios Públicos<br />
+										Resolución LL-9281-2016<br />
+										Panamá, 13 de Junio del 2016</span>
+									</div>
+								</section>
+							</section>
+						</div>
+					</section>
+
+				<!-- Footer -->
+					<footer id="footer">
+						<div class="inner">
+							<ul class="icons">
+								<li><a href="https://www.facebook.com/jokx.kaedaSL" class="icon alt fa-facebook"><span class="label">Facebook</span></a></li>
+								<li><a href="https://www.instagram.com/seth_liony/" class="icon alt fa-instagram"><span class="label">Instagram</span></a></li>
+								<li><a href="https://www.youtube.com/channel/UCmTKijvIAjG_RuPnVwe6dQg" class="icon alt fa-youtube"><span class="label">YouTube</span></a></li>
+							</ul>
+							<ul class="copyright">
+								<li>&copy; Baroness:Seth Liony</li>
+								<li>Diseño: <a href="https://www.facebook.com/SangoWordl">Sango Wolf</a></li>
+								
+							</ul>
+						</div>
+					</footer>
+
+			</div>
+
+		<!-- Scripts -->
+			<script>
+  (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+  m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+  })(window,document,'script','https://www.google-analytics.com/analytics.js','ga');
+
+  ga('create', 'UA-86937753-1', 'auto');
+  ga('send', 'pageview');
+
+</script>
+
+	</body>
+</html>
