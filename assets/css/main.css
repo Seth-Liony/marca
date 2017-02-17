@@ -2893,7 +2893,7 @@
 			-webkit-flex-direction: row;
 			-ms-flex-direction: row;
 			flex-direction: row;
-			background-color: #242943;
+			background-color: #2a2f4a;
 		}
 
 			.spotlights > section > .image {
@@ -2956,6 +2956,7 @@
 				-ms-flex-direction: row-reverse;
 				flex-direction: row-reverse;
 				background-color: ##2a2f4a;
+				
 			}
 
 				.spotlights > section:nth-child(2n) > .content {
