@@ -41,7 +41,34 @@
 	<meta name="msapplication-TileColor" content="#FFFFFF">  
 	
 	
+	
+	<style type="text/css">
+.centrar-imagen {
+text-align: center;
+}
+
+.centrar-imagen img {
+    width: 100%; /* Siempre que la resolución de pantalla sea inferior que el ancho de la imagen, ocupará el 100% */
+    max-width: 751px; /* Definimos el ancho máximo; el ancho de la imagen original, para evitar que siga ampliándose cuando la resolución de pantalla sea superior a éste */
+    height: auto; /* Dejamos que el navegador muestre automáticamente el alto siempre proporcional al ancho de la imagen */
+}
+
+html,body{
+margin:0px;
+height:100%;
+}
+</style>
+
+
+	
+	
+	
 </head>
+	
+	
+	
+	
+	
 
 <body>
 <!-- Wrapper -->
@@ -82,10 +109,19 @@
 	<div class="inner">
 <header class="major">
 	<h1>
-	<span class="image fit">
-	<img alt='Baroness: Seth Liony'; height='110px; id='Logo'; src="images/logo.png" alt="" style='display:block;padding-left:15px;padding-top:0px; padding-right:15px; width='450px; '/>
-       </span>
-		</h1>
+		
+	
+
+
+<div id="contenedor" style="width:100%; height:100%;">
+<div class="centrar-imagen"><img src="images/logo.png" /></div> <!-- Quitamos los estilos en línea y dejamos que trabajen los definidos en el style -->
+</div>
+
+	
+	<!--<img alt='Baroness: Seth Liony'; height='110px; id='Logo'; src="images/logo.png" alt="" style='display:block;padding-left:15px;padding-top:0px; padding-right:15px; width='450px; '/>
+      -->
+	
+	</h1>
 	
 </header>
 
