@@ -15,6 +15,28 @@
 		
 		
 		
+		<!-- Horientacion-->
+		<style type="text/css">
+    #aviso-movil-horizontal { display: none; }
+    @media only screen and (orientation:portrait) {
+        #wrapper { display:none; }
+        #aviso-movil-horizontal { display:block; }
+    }
+    @media only screen and (orientation:landscape) {
+        #aviso-movil-horizontal { display:none; }
+    }
+</style>
+ 
+// ...
+ 
+<div id="aviso-movil-horizontal">
+    Por favor, coloca tu móvil en horizontal.
+</div>
+ 
+<div id="wrapper">
+    CONTENIDO NORMAL DEL SITIO WEB
+</div>
+		
 		
 				
 		<!-- favicon -->
@@ -178,15 +200,7 @@ Inspirada en él día de los muertos.
 					</footer>
 
 			</div>
-		<!-- Javascript orientacion-->
-		$(document).ready(function () {
-  function reorient(e) {
-    var portrait = (window.orientation % 180 == 0);
-    $("body > div").css("-webkit-transform", !portrait ? "rotate(-90deg)" : "");
-  }
-  window.onorientationchange = reorient;
-  window.setTimeout(reorient, 0);
-});
+		
 		
 
 		<!-- Scripts -->
