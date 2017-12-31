@@ -3001,7 +3001,7 @@ left:0px;
 				.spotlights > section > .image img {
 					border-radius: 0;
 					display: block;
-					width: 30%;
+					width: 100%;
 				}
 
 				.spotlights > section > .image:before {
