@@ -24,7 +24,7 @@
 
 /* Para tener un ancho máximo debemos de establecer el width del DIV.delimitador */
 .delimitador{
-width:740px;
+width:30%;
 margin:auto;
 }
 /* El contenedor con el padding-top crea el tamaño del vídeo */
