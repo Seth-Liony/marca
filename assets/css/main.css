@@ -2,30 +2,7 @@
 @import url("https://fonts.googleapis.com/css?family=Source+Sans+Pro:300,300italic,600,600italic");
 
 /*  Especiales  */
-
-
-/* Para tener un ancho máximo debemos de establecer el width del DIV.delimitador */
-.delimitador{
-width:560px;
-margin:auto;
-}
-/* El contenedor con el padding-top crea el tamaño del vídeo */
-.contenedor{
-height:0px;
-width:100%;
-max-width:560px; /* Así establecemos el ancho máximo (si lo queremos) */
-padding-top:56.25%; /* Relación: 16/9 = 56.25% */
-position:relative;
-}
-/* El iframe se adapta al tamaño del contenedor */
-iframe{
-position:absolute;
-height:100%;
-width:100%;
-top:0px;
-left:0px;
-}
-
+.contenedor-padre {margin:0 auto;}
 
 
 /* Reset */
