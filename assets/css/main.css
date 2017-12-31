@@ -31,7 +31,7 @@ margin:auto;
 .contenedor{
 height:0px;
 width:100%;
-
+max-width:740px;
 padding-top:56.25%; /* Relación: 16/9 = 56.25% */
 position:relative;
 }
