@@ -16,28 +16,23 @@
 		
 		
 		<!-- Horientacion-->
-		 <style type="text/css">
-         #container { display:block; }
-         @media only screen and (orientation:portrait){
-            #container {  
-                  -webkit-transform: rotate(90deg);
-                  -moz-transform: rotate(90deg);
-                  -o-transform: rotate(90deg);
-                  -ms-transform: rotate(90deg);
-                  transform: rotate(90deg);
-                 }
+		<style type="text/css">
+    #aviso-movil-horizontal { display: none; }
+    @media only screen and (orientation:portrait) {
+        #wrapper { display:none; }
+        #aviso-movil-horizontal { display:block; }
+    }
+    @media only screen and (orientation:landscape) {
+        #aviso-movil-horizontal { display:none; }
+    }
+</style>
  
-         }
-         @media only screen and (orientation:landscape){
-            #container {  
-                  -webkit-transform: rotate(0deg);
-                  -moz-transform: rotate(0deg);
-                  -o-transform: rotate(0deg);
-                  -ms-transform: rotate(0deg);
-                  transform: rotate(0deg);
-                 }
-         }
-    </style>
+
+ 
+<div id="aviso-movil-horizontal">
+    Por favor, coloca tu móvil en horizontal.
+</div>
+ 
 
 		
 		
@@ -90,6 +85,7 @@
 
 				<!-- Banner -->
 				<!-- Note: The "styleN" class below should match that of the header element. -->
+				
 					<section id="banner" class="style2">
 						<div class="inner">
 							<span class="image">
@@ -115,8 +111,8 @@
 							<section id="two" class="spotlights">
 								<section>
 									
-			
-									<img src="images/E01.jpg" alt="" data-position="center center", width:100%, max-width:100px />
+										<img src="images/E01.jpg" alt="" data-position="center center" />
+									
 									<div class="content">
 										<div class="inner">
 											<header class="major">
@@ -140,7 +136,7 @@ Podrás encontrar esta historia en mi cuenta de wattpad ó dándole clic en la i
 									<div class="content">
 										<div class="inner">
 											<header class="major">
-												<h3>Yei-Ha: "El grito del lejano oeste" (Todas las edades)
+												<h3>Yei-Ha: "El grito del lejano oeste"
 </h3>
 											</header>
 											<p>En un lugar del lejano oeste de Texas llamando "Constanza" existía un pueblo atormentado por una corrupta mujer que se hacía llamar Layena, tenía el control y poder total sobre los humildes aldeanos de esta tierra. El pueblo cansado de esta injusticia, pedía a gritos un héroe, alguien que pudiese liberarlos de aquel terrible destino que les había tocado.
@@ -158,14 +154,13 @@ Podrás encontrar esta historia en mi cuenta de wattpad ó dándole clic en la i
 									<div class="content">
 										<div class="inner">
 											<header class="major">
-												<h3>El príncipe y la doncella fantasmal (Todas las edades)</h3>
+												<h3>El príncipe y la doncella fantasmal </h3>
 											</header>
 											<p>La historia de una chica que se enfrentó y desitió a un terrible destino.
 
-											Narración estilo “creppypasta” narrada en prosa. Corta, precisa y concisa para leer 
-											y reflexionar, el final es tú elección.
+Narración estilo “creppypasta” narrada en prosa. Corta, precisa y concisa para leer y reflexionar, el final es tú elección.
 
-											Inspirada en él día de los muertos.
+Inspirada en él día de los muertos.
 											</p>
 											<ul class="actions">
 												<li><a href="https://www.wattpad.com/story/53522452-el-principe-y-la-doncella-fantasmal" class="button">Leer</a></li>
