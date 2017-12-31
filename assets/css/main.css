@@ -24,7 +24,6 @@
 
 /* Para tener un ancho máximo debemos de establecer el width del DIV.delimitador */
 .delimitador{
-margin:0,auto;
 width:370px;
 margin:auto;
 }
