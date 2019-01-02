@@ -25,7 +25,7 @@
 	}
 
 
-/*REDES SOCIALES*/
+/*REDES SOCIALES
 .social-bar {
 	position: fixed;
 	right: 0;
@@ -74,7 +74,7 @@
 	border-radius: 1rem 0 0 1rem;
 	box-shadow: 0 0 .5rem rgba(0, 0, 0, 0.42);
 }
-/*FIN redes sociales*/
+FIN redes sociales*/
 
 /* Para tener un ancho máximo debemos de establecer el width del DIV.delimitador */
 .delimitador{
